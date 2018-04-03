@@ -1,0 +1,9 @@
+E:\LTMTuan4Bai2\bin\Debug\LTMTuan4Bai2.exe.config
+E:\LTMTuan4Bai2\bin\Debug\LTMTuan4Bai2.exe
+E:\LTMTuan4Bai2\bin\Debug\LTMTuan4Bai2.pdb
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.csprojResolveAssemblyReference.cache
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.Form1.resources
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.Properties.Resources.resources
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.csproj.GenerateResource.Cache
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.exe
+E:\LTMTuan4Bai2\obj\Debug\LTMTuan4Bai2.pdb
